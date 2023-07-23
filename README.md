@@ -1,5 +1,5 @@
 # JsonIleAlisverisSitesi
-<h1 style="color: yellow;">Json Apisi ile Alışveriş Sitesi Yapımı</h1>
+<h1><strong>Json Apisi ile Alışveriş Sitesi Yapımı</strong></h1>
 
 <p>Bu projemde dummyjson.com sitesinden json api verisi çekerek api verilerine uygun küçük çaplı bir alışveriş sitesi yaptım.</p>
 <p>Json verisinden ürünün resmi, markası, modeli(çeşidi) ve fiyatı çekiliyor.</p>
